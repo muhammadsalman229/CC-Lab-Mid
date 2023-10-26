@@ -1,0 +1,18 @@
+c:\users\pc\documents\visual studio 2013\Projects\LL1_MID_Task2\LL1_MID_Task2\bin\Debug\LL1_MID_Task2.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\LL1_MID_Task2\LL1_MID_Task2\obj\Debug\LL1_MID_Task2.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\LL1_MID_Task2\LL1_MID_Task2\obj\Debug\LL1_MID_Task2.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\LL1_MID_Task2\LL1_MID_Task2\obj\Debug\LL1_MID_Task2.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\LL1_MID_Task2\LL1_MID_Task2\obj\Debug\LL1_MID_Task2.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\LL1_MID_Task2\LL1_MID_Task2\bin\Debug\LL1_MID_Task2.exe
+c:\users\pc\documents\visual studio 2013\Projects\LL1_MID_Task2\LL1_MID_Task2\bin\Debug\LL1_MID_Task2.pdb
+c:\users\pc\documents\visual studio 2013\Projects\LL1_MID_Task2\LL1_MID_Task2\obj\Debug\LL1_MID_Task2.exe
+c:\users\pc\documents\visual studio 2013\Projects\LL1_MID_Task2\LL1_MID_Task2\obj\Debug\LL1_MID_Task2.pdb
+C:\Users\students\Desktop\LL1_MID_Task2\LL1_MID_Task2\bin\Debug\LL1_MID_Task2.exe.config
+C:\Users\students\Desktop\LL1_MID_Task2\LL1_MID_Task2\obj\Debug\LL1_MID_Task2.exe
+C:\Users\students\Desktop\LL1_MID_Task2\LL1_MID_Task2\obj\Debug\LL1_MID_Task2.pdb
+C:\Users\students\Desktop\qs 2 cc mid lab\LL1_MID_Task2\bin\Debug\LL1_MID_Task2.exe.config
+C:\Users\students\Desktop\qs 2 cc mid lab\LL1_MID_Task2\obj\Debug\LL1_MID_Task2.exe
+C:\Users\students\Desktop\qs 2 cc mid lab\LL1_MID_Task2\obj\Debug\LL1_MID_Task2.pdb
+C:\Users\students\Desktop\Qs2 CC-MidLab\LL1_MID_Task2\bin\Debug\LL1_MID_Task2.exe.config
+C:\Users\students\Desktop\Qs2 CC-MidLab\LL1_MID_Task2\obj\Debug\LL1_MID_Task2.exe
+C:\Users\students\Desktop\Qs2 CC-MidLab\LL1_MID_Task2\obj\Debug\LL1_MID_Task2.pdb
